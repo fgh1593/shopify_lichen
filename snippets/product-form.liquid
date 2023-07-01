@@ -456,7 +456,7 @@
 
 {%- if template.suffix == 'quick-buy-drawer' -%}
   <div class="product-form__view-details">
-    <a href="{{ product.url }}" class="link text--subdued">{{ 'product.general.view_details' | t }}</a>
+    <a href="{{ product.url | within: collection }}" class="link text--subdued">{{ 'product.general.view_details' | t }}</a>
   </div>
 {%- endif -%}
 

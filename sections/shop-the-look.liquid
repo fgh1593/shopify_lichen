@@ -190,7 +190,7 @@
                       {%- endunless -%}
                     {%- endif -%}
 
-                    <a href="{{ product.url }}" class="shop-the-look__product-title">{{ product.title }}</a>
+                    <a href="{{ product.url | within: collection }}" class="shop-the-look__product-title">{{ product.title }}</a>
 
                     <div class="shop-the-look__product-bottom-wrapper">
                       {%- if product.price_varies -%}
@@ -224,10 +224,10 @@
                   </div>
                 </openable-element>
 
-                <quick-buy-popover href="{{ product.url }}?view=quick-buy-popover" id="{{ look_id }}-{{ forloop.index }}-popover" class="popover popover--quick-buy"></quick-buy-popover>
+                <quick-buy-popover href="{{ product.url | within: collection }}?view=quick-buy-popover" id="{{ look_id }}-{{ forloop.index }}-popover" class="popover popover--quick-buy"></quick-buy-popover>
 
                 {%- if product.available and product.variants.size > 1 -%}
-                  <quick-buy-drawer href="{{ product.url }}?view=quick-buy-drawer" id="{{ look_id }}-{{ forloop.index }}-drawer" class="drawer drawer--large drawer--quick-buy"></quick-buy-drawer>
+                  <quick-buy-drawer href="{{ product.url | within: collection }}?view=quick-buy-drawer" id="{{ look_id }}-{{ forloop.index }}-drawer" class="drawer drawer--large drawer--quick-buy"></quick-buy-drawer>
                 {%- endif -%}
               {%- endif -%}
             </div>

@@ -25,7 +25,7 @@
           "tags": {{ product.tags | json }},
 		      "title": {{ product.title | json }},
 		      "type": {{ product.type | json }},
-	        "url": "{{ product.url }}",
+	        "url": "{{ product.url | within: collection }}",
 		      "vendor": {{ product.vendor | json }},
 		      "featured_image": "{{ product.featured_image.src | image_url }}",
 		      "images": {{ product.images | json }},
