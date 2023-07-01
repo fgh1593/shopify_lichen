@@ -108,7 +108,7 @@
             {%- endunless -%}
           {%- endif -%}
 
-          <a href="{{ product.url }}" class="product-item-meta__title">{{ product.title }}</a>
+          <a href="{{ product.url | within: collection }}" class="product-item-meta__title">{{ product.title }}</a>
 
           <div class="product-item-meta__price-list-container" role="region" aria-live="polite">
             <div class="price-list" data-product-price-list>
@@ -161,7 +161,7 @@
             </div>
 
             {%- if template.suffix == 'quick-buy-popover' -%}
-              <a href="{{ product.url }}" class="link text--subdued">{{ 'product.general.view_details' | t }}</a>
+              <a href="{{ product.url | within: collection }}" class="link text--subdued">{{ 'product.general.view_details' | t }}</a>
             {%- endif -%}
           </div>
         </product-meta>

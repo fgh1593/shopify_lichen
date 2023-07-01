@@ -55,7 +55,7 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
     {%- if request.page_type == 'product' -%}
       {%- assign selected_media = product.selected_variant.featured_media | default: product.featured_media -%}
 
-      <link rel="preload" as="fetch" href="{{ product.url }}.js" crossorigin>
+      <link rel="preload" as="fetch" href="{{ product.url | within: collection }}.js" crossorigin>
 
       {%- if product.media.size > 1 -%}
         <link rel="preload" as="script" href="{{ 'flickity.js' | asset_url }}">
