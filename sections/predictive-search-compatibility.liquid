@@ -47,7 +47,7 @@ IMPORTANT NOTE: this section is not used for most stores. By default, when using
         <ul class="predictive-search__product-list list--unstyled" role="list" data-type="products">
           {%- for product in product_results limit: 10 -%}
             <li class="predictive-search__product-item line-item line-item--centered">
-              <a href="{{ product.url | within: collection }}" class="line-item__content-wrapper">
+              <a href="{{ product.url }}" class="line-item__content-wrapper">
                 {%- if product.featured_media -%}
                   <span class="line-item__image-wrapper">
                   <img class="line-item__image" alt="{{ product.featured_media.alt | escape }}" width="{{ product.featured_media.width }}" height="{{ product.featured_media.height }}" src="{{ product.featured_media | img_url: '210x' }}">
