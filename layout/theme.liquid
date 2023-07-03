@@ -140,6 +140,9 @@ all events, dependencies...) in the "custom.js" file, located in the Assets fold
     <div id="main"
       role="main"
       class="anchor">
+      {%- if settings.show_breadcrumb_nav -%}
+          {% render "breadcrumbs" %}
+      {%- endif -%}
       {%- comment -%}
       IMPLEMENTATION NOTE: on collection and search page, the theme was designed to show on mobile the filter bar and/or sort
       by at the very top of the page. However, due to the fact that sections are isolated, I had to move the code
