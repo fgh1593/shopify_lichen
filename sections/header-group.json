@@ -1,1 +1,203 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","disabled":true,"blocks":{"message-1":{"type":"message","settings":{"text":"Announce something here","learn_more_text":"Learn more","title":"","content":"","button_text":"","button_link":""}}},"block_order":["message-1"],"settings":{"announcement_bar_position":"non_sticky","announcement_text_size":"normal","autoplay":true,"cycle_speed":5,"background":"#f7aea6","text_color":"#56112a","button_background":"#56112a","button_text_color":"#ffffff"}},"header":{"type":"header","blocks":{"138c13a7-d897-4b57-8b11-53e0f3f3758f":{"type":"mega_menu","settings":{"menu_item":"塑膠類免洗餐具","images_position":"right","image_1":"shopify:\/\/shop_images\/reduce-reuse-recycle.jpg","image_1_heading":"","image_1_text":"","image_1_link":"shopify:\/\/collections\/plastic","image_2_heading":"","image_2_text":"","image_2_link":"","image_3_heading":"","image_3_text":"","image_3_link":"","image_4_heading":"","image_4_text":"","image_4_link":"","image_5_heading":"","image_5_text":"","image_5_link":"","image_6_heading":"","image_6_text":"","image_6_link":""}},"1d49f048-bc4b-4912-ab27-dbf9d1aba749":{"type":"mega_menu","settings":{"menu_item":"紙類免洗餐具","images_position":"right","image_1":"shopify:\/\/shop_images\/coffee-in-the-city.jpg","image_1_heading":"","image_1_text":"","image_1_link":"shopify:\/\/collections\/紙類免洗餐具","image_2_heading":"","image_2_text":"","image_2_link":"","image_3_heading":"","image_3_text":"","image_3_link":"","image_4_heading":"","image_4_text":"","image_4_link":"","image_5_heading":"","image_5_text":"","image_5_link":"","image_6_heading":"","image_6_text":"","image_6_link":""}},"4d0a8c86-b6fc-48f0-aac2-b1ca216f0433":{"type":"mega_menu","settings":{"menu_item":"袋子","images_position":"right","image_1":"shopify:\/\/shop_images\/bag-of-green-candy-gumballs.jpg","image_1_heading":"","image_1_text":"","image_1_link":"shopify:\/\/collections\/袋子","image_2_heading":"","image_2_text":"","image_2_link":"","image_3_heading":"","image_3_text":"","image_3_link":"","image_4_heading":"","image_4_text":"","image_4_link":"","image_5_heading":"","image_5_text":"","image_5_link":"","image_6_heading":"","image_6_text":"","image_6_link":""}},"cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd":{"type":"mega_menu","settings":{"menu_item":"鋁箔類免洗餐具","images_position":"right","image_1":"shopify:\/\/shop_images\/1_d5f9260e-74cf-4cce-9517-4cbb210622ad.jpg","image_1_heading":"","image_1_text":"","image_1_link":"shopify:\/\/collections\/圓形鋁箔盒","image_2":"shopify:\/\/shop_images\/1_fba3f144-0390-47bb-9f9f-b5c1a2ca826a.jpg","image_2_heading":"","image_2_text":"","image_2_link":"shopify:\/\/collections\/方形鋁箔盒","image_3_heading":"","image_3_text":"","image_3_link":"","image_4_heading":"","image_4_text":"","image_4_link":"","image_5_heading":"","image_5_text":"","image_5_link":"","image_6_heading":"","image_6_text":"","image_6_link":""}},"3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed":{"type":"mega_menu","settings":{"menu_item":"木竹類免洗餐具","images_position":"right","image_1":"shopify:\/\/shop_images\/f1cc3f4788718ff2e7acc1f8f254e693.jpg","image_1_heading":"","image_1_text":"","image_1_link":"shopify:\/\/collections\/筷子","image_2_heading":"","image_2_text":"","image_2_link":"","image_3_heading":"","image_3_text":"","image_3_link":"","image_4_heading":"","image_4_text":"","image_4_link":"","image_5_heading":"","image_5_text":"","image_5_link":"","image_6_heading":"","image_6_text":"","image_6_link":""}}},"block_order":["138c13a7-d897-4b57-8b11-53e0f3f3758f","1d49f048-bc4b-4912-ab27-dbf9d1aba749","4d0a8c86-b6fc-48f0-aac2-b1ca216f0433","cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd","3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed"],"custom_css":[".icon--header-cart {display: none;}",".header__cart-count{display: none;}"],"settings":{"enable_sticky_header":true,"logo":"shopify:\/\/shop_images\/logo.png","logo_max_width":140,"mobile_logo_max_width":100,"navigation_menu":"main-menu","sidebar_navigation_menu":"","header_layout":"logo_left_navigation_center","show_icons":true,"reduce_desktop_padding":false,"show_locale_selector":true,"show_country_selector":false,"enable_transparent_header":false,"transparent_header_text_color":"#ffffff","search_menu":""}}},"order":["announcement-bar","header"]}
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "disabled": true,
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "learn_more_text": "Learn more",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "message-1"
+      ],
+      "settings": {
+        "announcement_bar_position": "non_sticky",
+        "announcement_text_size": "normal",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#f7aea6",
+        "text_color": "#56112a",
+        "button_background": "#56112a",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "138c13a7-d897-4b57-8b11-53e0f3f3758f": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "塑膠類免洗餐具",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/reduce-reuse-recycle.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify:\/\/collections\/plastic",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        },
+        "1d49f048-bc4b-4912-ab27-dbf9d1aba749": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "紙類免洗餐具",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/coffee-in-the-city.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify:\/\/collections\/紙類免洗餐具",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        },
+        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "袋子",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/bag-of-green-candy-gumballs.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify:\/\/collections\/袋子",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        },
+        "cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "鋁箔類免洗餐具",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/1_d5f9260e-74cf-4cce-9517-4cbb210622ad.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify:\/\/collections\/圓形鋁箔盒",
+            "image_2": "shopify:\/\/shop_images\/1_fba3f144-0390-47bb-9f9f-b5c1a2ca826a.jpg",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "shopify:\/\/collections\/方形鋁箔盒",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        },
+        "3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "木竹類免洗餐具",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/f1cc3f4788718ff2e7acc1f8f254e693.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify:\/\/collections\/筷子",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "138c13a7-d897-4b57-8b11-53e0f3f3758f",
+        "1d49f048-bc4b-4912-ab27-dbf9d1aba749",
+        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433",
+        "cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd",
+        "3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed"
+      ],
+      "custom_css": [
+        ".icon--header-cart {display: none;}",
+        ".header__cart-count {display: none;}"
+      ],
+      "settings": {
+        "enable_sticky_header": true,
+        "logo": "shopify:\/\/shop_images\/logo.png",
+        "logo_max_width": 140,
+        "mobile_logo_max_width": 100,
+        "navigation_menu": "main-menu",
+        "sidebar_navigation_menu": "",
+        "header_layout": "logo_left_navigation_center",
+        "show_icons": true,
+        "reduce_desktop_padding": false,
+        "show_locale_selector": true,
+        "show_country_selector": false,
+        "enable_transparent_header": false,
+        "transparent_header_text_color": "#ffffff",
+        "search_menu": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
