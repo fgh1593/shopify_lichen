@@ -15,7 +15,7 @@
   ------------------------------------------------------------------------------------------
   {%- endcomment -%}
 
-  {%- capture breadcrumb -%}
+{% comment %}   {%- capture breadcrumb -%}
     <nav aria-label="{{ 'general.breadcrumb.title' | t }}" class="breadcrumb breadcrumb--floating text--xsmall hidden-phone">
       <ol class="breadcrumb__list" role="list">
         <li class="breadcrumb__item">
@@ -33,7 +33,7 @@
         </li>
       </ol>
     </nav>
-  {%- endcapture -%}
+  {%- endcapture -%} {% endcomment %}
 
   {%- if collection.image and section.settings.show_collection_image -%}
     <image-with-text-overlay reveal-on-scroll parallax class="image-overlay image-overlay--{{ section.settings.section_height }}" {% if section.settings.section_height == 'auto' %}style="--image-aspect-ratio: {{ collection.image.aspect_ratio }}"{% endif %}>
