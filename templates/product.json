@@ -39,7 +39,7 @@
       ],
       "custom_css": [
         ".price {display: none;}",
-        ".breadcrumb{display: none;}"
+        ".breadcrumb {display: none;}"
       ],
       "settings": {
         "show_vendor": false,
@@ -78,7 +78,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "subheading": "",
+        "subheading": "hjkhjk",
         "title": "You may also like",
         "recommendations_count": 4,
         "background": "rgba(0,0,0,0)",
