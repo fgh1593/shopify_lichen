@@ -1,1 +1,125 @@
-{"sections":{"collection-banner":{"type":"collection-banner","settings":{"show_collection_image":false,"show_collection_title":true,"show_collection_description":true,"section_height":"small","text_width":"medium","image_text_color":"#ffffff","image_overlay_color":"#000000","image_overlay_opacity":30,"quick_links":""}},"main":{"type":"main-collection","disabled":true,"settings":{"show_sort_by":false,"products_per_page":24,"mobile_products_per_row":"2","desktop_products_per_row":4,"show_filters":false,"show_filter_group_name":false,"show_color_swatch":false,"open_first_filter_group":false,"filter_position":"always_visible","promotion_position":"top","promotion_height":"small"}},"99b854c3-c1cd-4201-bc40-914bee66063d":{"type":"collection-list","blocks":{"template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-0":{"type":"collection","settings":{"collection":"植纖餐盒-1","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-1":{"type":"collection","settings":{"collection":"植纖連體餐盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-2":{"type":"collection","settings":{"collection":"植纖壽司盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-3":{"type":"collection","settings":{"collection":"植纖碗盤","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-0","template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-1","template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-2","template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-3"],"settings":{"reveal_on_scroll":false,"layout":"grid","subheading":"","title":"","background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}}},"order":["collection-banner","main","99b854c3-c1cd-4201-bc40-914bee66063d"]}
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": false,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "show_sort_by": false,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": false,
+        "show_filter_group_name": false,
+        "show_color_swatch": false,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "99b854c3-c1cd-4201-bc40-914bee66063d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖餐盒-1",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖連體餐盒",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖壽司盒",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖碗盤",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "cc4ace69-62f5-46c6-a4ac-e9c87b974a72": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖醬料杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-0",
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-1",
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-2",
+        "template--19338342859060__99b854c3-c1cd-4201-bc40-914bee66063d-1685689373c8a84714-3",
+        "cc4ace69-62f5-46c6-a4ac-e9c87b974a72"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "99b854c3-c1cd-4201-bc40-914bee66063d"
+  ]
+}
