@@ -5,7 +5,6 @@
       "blocks": {
         "variant_picker": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "selector_mode": "block",
