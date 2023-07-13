@@ -61,32 +61,6 @@
             "image_6_link": ""
           }
         },
-        "1d49f048-bc4b-4912-ab27-dbf9d1aba749": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "紙類免洗餐具",
-            "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/coffee-in-the-city.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify:\/\/collections\/紙類免洗餐具",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
-        },
         "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433": {
           "type": "mega_menu",
           "settings": {
@@ -169,7 +143,6 @@
       },
       "block_order": [
         "138c13a7-d897-4b57-8b11-53e0f3f3758f",
-        "1d49f048-bc4b-4912-ab27-dbf9d1aba749",
         "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433",
         "cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd",
         "3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed"
