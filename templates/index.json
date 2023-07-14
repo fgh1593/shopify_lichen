@@ -1,1 +1,340 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner.png","text_position":"middle_center","subheading":"","title":"","button_1_text":"","button_1_link":"","button_2_text":"","button_2_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["slide-1"],"custom_css":[".slideshow__image-wrapper:before {background-color: rgba(0, 0, 0, 0);}"],"settings":{"section_height":"auto","transition_type":"sweep","autoplay":true,"cycle_speed":5,"background":"rgba(0,0,0,0)"}},"collection-list":{"type":"collection-list","blocks":{"collection-2":{"type":"collection","settings":{"collection":"plastic","image":"shopify:\/\/shop_images\/c9a6efa543572fd2067cfe8caf872a7b.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"collection-1":{"type":"collection","settings":{"collection":"紙類免洗餐具","image":"shopify:\/\/shop_images\/6d9e7907dc267fc00c105a123c4ef8d0.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"collection-3":{"type":"collection","settings":{"collection":"植纖餐盒","image":"shopify:\/\/shop_images\/63bd6ef394c753d29a966125043ebc32.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"71bd33de-f648-41bc-b6a5-05918c528b02":{"type":"collection","settings":{"collection":"袋子","image":"shopify:\/\/shop_images\/5646b711cc3cb1b9c1aa5884a40a3b13.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"aca583df-c714-4353-9af6-dcd7721a89c2":{"type":"collection","settings":{"collection":"鋁箔類免洗餐具","image":"shopify:\/\/shop_images\/40f49d0e6742a85cfd18e3112604dcc9.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"0064390f-885a-42c1-ba97-ea2b9ab49d0b":{"type":"collection","settings":{"collection":"木竹類免洗餐具","image":"shopify:\/\/shop_images\/0500b9bb61e293cfd5c04a54c765c758.png","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["collection-2","collection-1","collection-3","71bd33de-f648-41bc-b6a5-05918c528b02","aca583df-c714-4353-9af6-dcd7721a89c2","0064390f-885a-42c1-ba97-ea2b9ab49d0b"],"custom_css":[".list-collections__item-image {max-width: 80%; max-height: auto;}"],"settings":{"reveal_on_scroll":false,"layout":"grid","subheading":"","title":"","background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"f250983f-eabc-4d79-97e8-a37321417bc8":{"type":"video","settings":{"subheading":"","title":"","video_url":"https:\/\/www.youtube.com\/watch?v=8NWcdE-tcC8&t=3s","background_type":"boxed","video_size":"medium","autoplay":true,"show_video_controls":false,"background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"image-with-text":{"type":"image-with-text","blocks":{"item-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/52dbad4e-882c-4bd7-8a3a-147cc397a383.png","tab_label":"鈕開樂沙拉盒","subheading":"露營出遊好選擇","title":"鈕開樂沙拉盒","content":"<p>盒身好蓋、好開、防漏、防霧、抗菌<\/p><p>野餐、露營輕鬆帶出門<\/p><p>適合盛裝輕食沙拉、三明治、水果、肉品海鮮分裝也OK<\/p><p>斷點設計破壞後，還有一定的密合度!<\/p>","button_text":"","button_link":""}},"item-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/bece49e9-9678-4f2d-a5f4-0a7996b71a4e.png","tab_label":"植纖餐具","subheading":"環保新選擇","title":"植纖餐具","content":"","button_text":"","button_link":""}}},"block_order":["item-1","item-2"],"settings":{"reveal_on_scroll":true,"background_type":"full_width","background_overlap":"image","image_position":"left","text_alignment":"center","cycle_speed":3,"accent_background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","button_background":"rgba(0,0,0,0)","button_text_color":"rgba(0,0,0,0)"}},"564db415-b60b-49fa-b955-d7888f42f912":{"type":"image-with-text","blocks":{"template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/1b748d90-19a7-41bf-8e0d-fff55ea97776.jpg","tab_label":"消光封口膜","subheading":"質感新選擇","title":"消光封口膜","content":"<p>黑白兩色任你挑!<\/p><p>消光讓你的質感大提升!<\/p>","button_text":"","button_link":""}},"596e98d2-b662-401b-8071-dc20e2918484":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/a93346bc-cf1b-447e-85fb-2777f7afd219.jpg","tab_label":"30oz紙杯","subheading":"完美替換塑膠杯","title":"30oz紙杯","content":"<p>面對禁塑，找不到合適的替代紙杯嗎?<\/p><p>30oz紙杯是你的新選擇!<\/p>","button_text":"","button_link":""}}},"block_order":["template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0","596e98d2-b662-401b-8071-dc20e2918484"],"settings":{"reveal_on_scroll":true,"background_type":"full_width","background_overlap":"image","image_position":"right","text_alignment":"center","cycle_speed":3,"accent_background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","button_background":"rgba(0,0,0,0)","button_text_color":"rgba(0,0,0,0)"}},"blog-posts":{"type":"blog-posts","disabled":true,"settings":{"blog":"","subheading":"Stay up-to-date","title":"Blog posts","articles_count":3,"stack_mobile":false,"show_category":true,"show_excerpt":false,"background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"4ee037fa-c28f-4a8d-a83a-87835a9e1f69":{"type":"multi-column","blocks":{"template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-0":{"type":"item","settings":{"image_width":100,"image_border":"rgba(0,0,0,0)","title":"高性價","content":"<p>我們提供多種免洗餐具，包括塑膠餐具和紙質餐具，讓您可以以更實惠的價格享受到方便快捷的餐飲體驗。我們的免洗餐具不僅方便使用，還經過嚴格的品質檢測，確保安全衛生。<\/p>","link_text":"","link_url":"","link_style":"link","text_alignment":"center","vertical_alignment":"start"}},"template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-1":{"type":"item","settings":{"image_width":100,"image_border":"rgba(0,0,0,0)","title":"專業服務","content":"<p>我們擁有專業的團隊，為您提供全方位的產品和服務支持。我們可以根據您的需求定制各種規格和款式的免洗餐具，並提供印刷和設計等增值服務，助力您的業務發展。<\/p>","link_text":"","link_url":"","link_style":"link","text_alignment":"center","vertical_alignment":"start"}},"template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-2":{"type":"item","settings":{"image_width":100,"image_border":"rgba(0,0,0,0)","title":"南部滿額免費配送","content":"<p>為了讓南部地區的客戶享受更優質的購物體驗，我們提供南部滿額免費配送的優惠政策。只要您的訂單滿足指定金額，就可以享受免費送貨的服務，讓您更輕鬆地獲取所需產品。<\/p>","link_text":"","link_url":"","link_style":"link","text_alignment":"center","vertical_alignment":"start"}}},"block_order":["template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-0","template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-1","template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-2"],"settings":{"reveal_on_scroll":true,"stack_items":true,"subheading":"","title":"關於我們","content":"","column_alignment":"center","mobile_item_size":"medium","desktop_item_size":"medium","spacing":"normal","background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}}},"order":["slideshow","collection-list","f250983f-eabc-4d79-97e8-a37321417bc8","image-with-text","564db415-b60b-49fa-b955-d7888f42f912","blog-posts","4ee037fa-c28f-4a8d-a83a-87835a9e1f69"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "custom_css": [
+        ".slideshow__image-wrapper:before {background-color: rgba(0, 0, 0, 0);}"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "plastic",
+            "image": "shopify:\/\/shop_images\/c9a6efa543572fd2067cfe8caf872a7b.png",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "紙類免洗餐具",
+            "image": "shopify:\/\/shop_images\/6d9e7907dc267fc00c105a123c4ef8d0.png",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "植纖餐盒",
+            "image": "shopify:\/\/shop_images\/63bd6ef394c753d29a966125043ebc32.png",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "71bd33de-f648-41bc-b6a5-05918c528b02": {
+          "type": "collection",
+          "settings": {
+            "collection": "袋子",
+            "image": "shopify:\/\/shop_images\/5646b711cc3cb1b9c1aa5884a40a3b13.png",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "aca583df-c714-4353-9af6-dcd7721a89c2": {
+          "type": "collection",
+          "settings": {
+            "collection": "鋁箔類免洗餐具",
+            "image": "shopify:\/\/shop_images\/40f49d0e6742a85cfd18e3112604dcc9.png",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "0064390f-885a-42c1-ba97-ea2b9ab49d0b": {
+          "type": "collection",
+          "settings": {
+            "collection": "木竹類免洗餐具",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-1",
+        "collection-3",
+        "71bd33de-f648-41bc-b6a5-05918c528b02",
+        "aca583df-c714-4353-9af6-dcd7721a89c2",
+        "0064390f-885a-42c1-ba97-ea2b9ab49d0b"
+      ],
+      "custom_css": [
+        ".list-collections__item-image {max-width: 80%; max-height: auto;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f250983f-eabc-4d79-97e8-a37321417bc8": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=8NWcdE-tcC8&t=3s",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/52dbad4e-882c-4bd7-8a3a-147cc397a383.png",
+            "tab_label": "鈕開樂沙拉盒",
+            "subheading": "露營出遊好選擇",
+            "title": "鈕開樂沙拉盒",
+            "content": "<p>盒身好蓋、好開、防漏、防霧、抗菌<\/p><p>野餐、露營輕鬆帶出門<\/p><p>適合盛裝輕食沙拉、三明治、水果、肉品海鮮分裝也OK<\/p><p>斷點設計破壞後，還有一定的密合度!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bece49e9-9678-4f2d-a5f4-0a7996b71a4e.png",
+            "tab_label": "植纖餐具",
+            "subheading": "環保新選擇",
+            "title": "植纖餐具",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 3,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "564db415-b60b-49fa-b955-d7888f42f912": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1b748d90-19a7-41bf-8e0d-fff55ea97776.jpg",
+            "tab_label": "消光封口膜",
+            "subheading": "質感新選擇",
+            "title": "消光封口膜",
+            "content": "<p>黑白兩色任你挑!<\/p><p>消光讓你的質感大提升!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "596e98d2-b662-401b-8071-dc20e2918484": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a93346bc-cf1b-447e-85fb-2777f7afd219.jpg",
+            "tab_label": "30oz紙杯",
+            "subheading": "完美替換塑膠杯",
+            "title": "30oz紙杯",
+            "content": "<p>面對禁塑，找不到合適的替代紙杯嗎?<\/p><p>30oz紙杯是你的新選擇!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0",
+        "596e98d2-b662-401b-8071-dc20e2918484"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 3,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "blog": "",
+        "subheading": "Stay up-to-date",
+        "title": "Blog posts",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "4ee037fa-c28f-4a8d-a83a-87835a9e1f69": {
+      "type": "multi-column",
+      "blocks": {
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "高性價",
+            "content": "<p>我們提供多種免洗餐具，包括塑膠餐具和紙質餐具，讓您可以以更實惠的價格享受到方便快捷的餐飲體驗。我們的免洗餐具不僅方便使用，還經過嚴格的品質檢測，確保安全衛生。<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "專業服務",
+            "content": "<p>我們擁有專業的團隊，為您提供全方位的產品和服務支持。我們可以根據您的需求定制各種規格和款式的免洗餐具，並提供印刷和設計等增值服務，助力您的業務發展。<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "南部滿額免費配送",
+            "content": "<p>為了讓南部地區的客戶享受更優質的購物體驗，我們提供南部滿額免費配送的優惠政策。只要您的訂單滿足指定金額，就可以享受免費送貨的服務，讓您更輕鬆地獲取所需產品。<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-0",
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-1",
+        "template--18250312614196__4ee037fa-c28f-4a8d-a83a-87835a9e1f69-1686729888db848973-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "關於我們",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "f250983f-eabc-4d79-97e8-a37321417bc8",
+    "image-with-text",
+    "564db415-b60b-49fa-b955-d7888f42f912",
+    "blog-posts",
+    "4ee037fa-c28f-4a8d-a83a-87835a9e1f69"
+  ]
+}
