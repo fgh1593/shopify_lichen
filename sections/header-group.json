@@ -86,66 +86,11 @@
             "image_6_text": "",
             "image_6_link": ""
           }
-        },
-        "cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "鋁箔類免洗餐具",
-            "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/1_d5f9260e-74cf-4cce-9517-4cbb210622ad.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify:\/\/collections\/圓形鋁箔盒",
-            "image_2": "shopify:\/\/shop_images\/1_fba3f144-0390-47bb-9f9f-b5c1a2ca826a.jpg",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "shopify:\/\/collections\/方形鋁箔盒",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
-        },
-        "3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "木竹類免洗餐具",
-            "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/f1cc3f4788718ff2e7acc1f8f254e693.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify:\/\/collections\/筷子",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
         }
       },
       "block_order": [
         "138c13a7-d897-4b57-8b11-53e0f3f3758f",
-        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433",
-        "cfc0b7cc-495d-438e-b05b-f2b1ded8d8cd",
-        "3aa5a928-e2d5-4e62-b00a-e9f5e6bb0eed"
+        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433"
       ],
       "custom_css": [
         ".icon--header-cart {display: none;}",
