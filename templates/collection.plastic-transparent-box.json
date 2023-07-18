@@ -43,19 +43,6 @@
             "overlay_opacity": 30
           }
         },
-        "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "玫瑰盒",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-4": {
           "type": "collection",
           "settings": {
@@ -73,7 +60,6 @@
       "block_order": [
         "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-0",
         "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-1",
-        "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-2",
         "template--19440608149812__d231d294-9e5f-45e1-ab04-b74812c05c6a-1686296591142b5d45-4"
       ],
       "settings": {
