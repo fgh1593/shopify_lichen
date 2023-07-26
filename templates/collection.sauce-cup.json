@@ -1,1 +1,142 @@
-{"sections":{"collection-banner":{"type":"collection-banner","settings":{"show_collection_image":false,"show_collection_title":true,"show_collection_description":true,"section_height":"small","text_width":"medium","image_text_color":"#ffffff","image_overlay_color":"#000000","image_overlay_opacity":30,"quick_links":""}},"3519e5e7-5e6c-4014-a036-27f506e2e3d7":{"type":"collection-list","blocks":{"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-0":{"type":"collection","settings":{"collection":"連體醬料杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-1":{"type":"collection","settings":{"collection":"醬料杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-2":{"type":"collection","settings":{"collection":"布丁杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-3":{"type":"collection","settings":{"collection":"造型慕斯奶酪杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-4":{"type":"collection","settings":{"collection":"圓形慕斯奶酪杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-5":{"type":"collection","settings":{"collection":"方形慕斯奶酪杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"37c49b3e-cc61-491b-82a7-8b31d274c93d":{"type":"collection","settings":{"collection":"斜紋慕斯奶酪杯","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-0","template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-1","template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-2","template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-3","template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-4","template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-5","37c49b3e-cc61-491b-82a7-8b31d274c93d"],"settings":{"reveal_on_scroll":false,"layout":"grid","subheading":"","title":"","background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"main":{"type":"main-collection","disabled":true,"custom_css":[".price {display: none;}"],"settings":{"show_sort_by":false,"products_per_page":24,"mobile_products_per_row":"2","desktop_products_per_row":4,"show_filters":false,"show_filter_group_name":false,"show_color_swatch":false,"open_first_filter_group":false,"filter_position":"always_visible","promotion_position":"top","promotion_height":"small"}}},"order":["collection-banner","3519e5e7-5e6c-4014-a036-27f506e2e3d7","main"]}
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": false,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "3519e5e7-5e6c-4014-a036-27f506e2e3d7": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "醬料杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "布丁杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "造型慕斯奶酪杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "圓形慕斯奶酪杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "方形慕斯奶酪杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "37c49b3e-cc61-491b-82a7-8b31d274c93d": {
+          "type": "collection",
+          "settings": {
+            "collection": "斜紋慕斯奶酪杯",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-1",
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-2",
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-3",
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-4",
+        "template--19478015672628__3519e5e7-5e6c-4014-a036-27f506e2e3d7-16865419667c071d57-5",
+        "37c49b3e-cc61-491b-82a7-8b31d274c93d"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+        ".price {display: none;}"
+      ],
+      "settings": {
+        "show_sort_by": false,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": false,
+        "show_filter_group_name": false,
+        "show_color_swatch": false,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "3519e5e7-5e6c-4014-a036-27f506e2e3d7",
+    "main"
+  ]
+}
