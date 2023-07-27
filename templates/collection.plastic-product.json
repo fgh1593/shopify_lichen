@@ -128,6 +128,19 @@
             "overlay_opacity": 30
           }
         },
+        "8be13c9d-7421-490e-8754-fd62025919cc": {
+          "type": "collection",
+          "settings": {
+            "collection": "餐具",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "698cd7a3-f3ce-48bd-9113-0a7aa3029dbd": {
           "type": "collection",
           "settings": {
@@ -141,10 +154,10 @@
             "overlay_opacity": 30
           }
         },
-        "8be13c9d-7421-490e-8754-fd62025919cc": {
+        "b82f1de2-3fd6-4505-a13d-16bbc14eb66a": {
           "type": "collection",
           "settings": {
-            "collection": "餐具",
+            "collection": "湯杯內襯",
             "subheading": "",
             "title": "",
             "link_text": "",
@@ -176,8 +189,9 @@
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-4",
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-5",
         "80e5b05d-9137-4c3a-86d0-66c411438570",
-        "698cd7a3-f3ce-48bd-9113-0a7aa3029dbd",
         "8be13c9d-7421-490e-8754-fd62025919cc",
+        "698cd7a3-f3ce-48bd-9113-0a7aa3029dbd",
+        "b82f1de2-3fd6-4505-a13d-16bbc14eb66a",
         "4bfedcaa-6627-49dd-8385-73b777819a3d"
       ],
       "settings": {
