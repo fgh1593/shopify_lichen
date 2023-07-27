@@ -4,5 +4,12 @@
     "market": "tw"
   },
   "sections": {
+    "newsletter-popup": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    }
   }
 }
