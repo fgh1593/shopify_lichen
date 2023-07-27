@@ -230,8 +230,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".price {display: none;}",
-      ".newsletter-modal__content{display: none;}"
+      ".price {display: none;}"
     ]
   }
 }
