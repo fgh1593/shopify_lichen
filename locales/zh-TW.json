@@ -391,57 +391,57 @@
   },
   "contact": {
     "form": {
-      "name": "Name",
-      "email": "E-mail",
-      "message": "Message",
-      "submit": "Submit",
-      "successfully_sent": "Your e-mail has been sent."
+      "name": "姓名",
+      "email": "電子郵件",
+      "message": "留言",
+      "submit": "提交",
+      "successfully_sent": "您的郵件已成功發送。"
     }
   },
   "gift_card": {
     "issued": {
-      "subtext": "Here's your gift card!",
-      "illustration": "Gift card illustration",
-      "disabled": "Your gift card is disabled.",
-      "expired": "Your gift card expired on {{expiry}}.",
-      "expires_on": "Expires on {{expiry}}",
-      "redeem": "Use this code at checkout to redeem your gift card:",
-      "remaining_amount_html": "Remaining amount: {{balance}} (out of {{initial_value}})",
-      "print": "Print",
-      "scan_qr_code": "Scan this QR code:",
-      "add_to_apple_wallet": "Add to Apple Wallet",
-      "go_to_store": "Go to the store"
+      "subtext": "這是您的禮品卡！",
+      "illustration": "禮品卡插圖",
+      "disabled": "您的禮品卡已禁用。",
+      "expired": "您的禮品卡已於{{expiry}}到期。",
+      "expires_on": "到期日期：{{expiry}}",
+      "redeem": "在結算時使用以下代碼兌換您的禮品卡：",
+      "remaining_amount_html": "剩餘金額：{{balance}}（共 {{initial_value}}）",
+      "print": "列印",
+      "scan_qr_code": "掃描此QR碼：",
+      "add_to_apple_wallet": "添加到蘋果錢包",
+      "go_to_store": "前往商店"
     },
     "recipient": {
-      "checkbox": "I want to send this as a gift",
-      "email_label": "Recipient email",
-      "name_label": "Recipient name (optional)",
-      "message_label": "Message (optional)"
+      "checkbox": "我想把它作為禮物發送",
+      "email_label": "收件人電子郵件",
+      "name_label": "收件人姓名（可選）",
+      "message_label": "留言（可選）"
     }
   },
   "password": {
     "general": {
-      "store_owner": "Store owner?",
-      "login": "Login here",
-      "powered_by": "This store will be powered by",
-      "enter_password": "Enter using password"
+      "store_owner": "店主？",
+      "login": "在此登入",
+      "powered_by": "本店將由以下技術提供支持",
+      "enter_password": "輸入密碼進入商店"
     },
     "password": {
-      "label": "Please enter password to access the store",
-      "input": "Password",
-      "submit": "Enter"
+      "label": "請輸入密碼以進入商店",
+      "input": "密碼",
+      "submit": "進入"
     },
     "newsletter": {
-      "success": "You have been registered to our newsletter",
-      "email": "Your e-mail",
-      "submit": "Notify me"
+      "success": "您已成功註冊我們的電子報",
+      "email": "您的電子郵件",
+      "submit": "通知我"
     }
   },
   "404": {
     "general": {
-      "title": "Page not found",
-      "description": "Sorry, this page does not exist.",
-      "back_to_home": "Back to home"
+      "title": "頁面未找到",
+      "description": "抱歉，找不到此頁面。",
+      "back_to_home": "返回首頁"
     }
   }
 }
