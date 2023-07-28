@@ -4,7 +4,7 @@
       "page": "頁面 {{ page }}"
     },
     "label": {
-      "color": "顏色",
+      "color": "color",
       "white": "白色",
       "size": "尺寸"
     },
