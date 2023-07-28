@@ -376,17 +376,17 @@
   },
   "search": {
     "general": {
-      "title": "Search",
-      "terms": "Results for \"{{terms}}\"",
-      "search_placeholder": "What are you looking for?",
-      "no_results": "No results could be found.",
-      "new_search": "New search",
-      "view_all_results": "View all results",
-      "products": "Products",
-      "queries": "Suggestions",
-      "articles": "Journal",
-      "pages": "Pages",
-      "collections": "Collections"
+      "title": "搜索",
+      "terms": "“{{terms}}”的搜索結果",
+      "search_placeholder": "您在尋找什麼？",
+      "no_results": "找不到結果。",
+      "new_search": "新搜索",
+      "view_all_results": "查看所有結果",
+      "products": "產品",
+      "queries": "建議",
+      "articles": "文章",
+      "pages": "頁面",
+      "collections": "收藏"
     }
   },
   "contact": {
