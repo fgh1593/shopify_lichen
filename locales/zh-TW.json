@@ -238,31 +238,31 @@
   },
   "article": {
     "general": {
-      "written_by": "By {{ author }}",
-      "share": "Share",
-      "next": "Next",
-      "reading": "Reading",
-      "tags": "Tags",
-      "continue_reading": "Continue reading",
+      "written_by": "作者：{{ author }}",
+      "share": "分享",
+      "next": "下一篇",
+      "reading": "閱讀中",
+      "tags": "標籤",
+      "continue_reading": "繼續閱讀",
       "reading_time": {
-        "zero": "{{ count }} minutes",
-        "one": "{{ count }} minute",
-        "other": "{{ count }} minutes"
+        "zero": "{{ count }} 分鐘",
+        "one": "{{ count }} 分鐘",
+        "other": "{{ count }} 分鐘"
       }
     },
     "comments": {
-      "leave_comment": "Leave a comment",
-      "moderated": "All comments are moderated before being published.",
-      "name": "Name",
-      "email": "E-mail",
-      "message": "Message",
-      "submit": "Submit",
-      "comment_sent": "Your comment has been sent. It will be visible once the shop owner has accepted it!",
-      "comment_published": "Your comment has been published.",
+      "leave_comment": "發表評論",
+      "moderated": "所有評論在發布前都會經過審核。",
+      "name": "姓名",
+      "email": "電子郵件",
+      "message": "留言",
+      "submit": "提交",
+      "comment_sent": "您的評論已發送。店主接受後即可顯示！",
+      "comment_published": "您的評論已發佈。",
       "comments_count": {
-        "zero": "{{ count }} comments",
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "zero": "{{ count }} 則評論",
+        "one": "{{ count }} 則評論",
+        "other": "{{ count }} 則評論"
       }
     }
   },
