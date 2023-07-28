@@ -208,32 +208,32 @@
   },
   "store_availability": {
     "general": {
-      "view_store_info": "View store information",
-      "check_other_stores": "Check availability at other stores",
-      "pick_up_available": "Pickup available",
-      "pick_up_currently_unavailable": "Pickup currently unavailable",
-      "pick_up_available_at": "Pickup available at {{ location_name }}",
-      "pick_up_unavailable_at": "Pickup currently unavailable at {{ location_name }}"
+      "view_store_info": "查看商店信息",
+      "check_other_stores": "檢查其他商店的庫存",
+      "pick_up_available": "可取貨",
+      "pick_up_currently_unavailable": "目前無法取貨",
+      "pick_up_available_at": "可在 {{ location_name }} 取貨",
+      "pick_up_unavailable_at": "目前無法在 {{ location_name }} 取貨"
     }
   },
   "list_collections": {
     "general": {
-      "title": "Collections",
-      "empty": "This store does not contain any collection.",
-      "back_to_home": "Back to home page",
+      "title": "收藏",
+      "empty": "此商店不含任何收藏。",
+      "back_to_home": "返回首頁",
       "products_count": {
-        "zero": "No products",
-        "one": "{{count}} product",
-        "other": "{{count}} products"
+        "zero": "沒有產品",
+        "one": "{{count}} 項產品",
+        "other": "{{count}} 項產品"
       }
     }
   },
   "blog": {
     "general": {
-      "empty": "This blog has no articles",
-      "back_to_home": "Back to home",
-      "view": "View",
-      "all_posts": "All posts"
+      "empty": "此博客沒有文章",
+      "back_to_home": "返回首頁",
+      "view": "查看",
+      "all_posts": "所有文章"
     }
   },
   "article": {
