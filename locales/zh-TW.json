@@ -268,34 +268,34 @@
   },
   "customer": {
     "general": {
-      "title": "My account"
+      "title": "我的帳戶"
     },
     "login": {
-      "title": "Login",
-      "instructions": "Please enter your e-mail and password:",
-      "email": "E-mail",
-      "password": "Password",
-      "submit": "Login",
-      "forgot_password": "Forgot password?",
-      "new_customer": "New customer?",
-      "create_account": "Create an account"
+      "title": "登入",
+      "instructions": "請輸入您的電子郵件和密碼：",
+      "email": "電子郵件",
+      "password": "密碼",
+      "submit": "登入",
+      "forgot_password": "忘記密碼？",
+      "new_customer": "新客戶？",
+      "create_account": "創建帳戶"
     },
     "recover_password": {
-      "title": "Recover password",
-      "instructions": "Please enter your e-mail:",
-      "email": "E-mail",
-      "submit": "Recover",
-      "remember_password": "Remember your password?",
-      "back_to_login": "Back to login",
-      "success": "An e-mail has been sent to your address with instructions to recover your password."
+      "title": "找回密碼",
+      "instructions": "請輸入您的電子郵件：",
+      "email": "電子郵件",
+      "submit": "找回",
+      "remember_password": "記得密碼？",
+      "back_to_login": "返回登入",
+      "success": "我們已向您的郵箱發送一封找回密碼的郵件。"
     },
     "activate_account": {
-      "title": "Activate account",
-      "instructions": "Enter a password to create your account:",
-      "password": "Password",
-      "password_confirmation": "Password confirmation",
-      "submit": "Activate",
-      "cancel": "Cancel"
+      "title": "激活帳戶",
+      "instructions": "輸入密碼以創建您的帳戶：",
+      "password": "密碼",
+      "password_confirmation": "確認密碼",
+      "submit": "激活",
+      "cancel": "取消"
     },
     "reset_password": {
       "title": "Reset password",
