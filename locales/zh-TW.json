@@ -189,21 +189,21 @@
       }
     },
     "form": {
-      "choose_options": "Choose options",
-      "quantity": "Quantity",
-      "variant": "Variant",
-      "unavailable": "Unavailable",
-      "pre_order": "Pre-order",
-      "add_to_cart": "Add to cart",
-      "sold_out": "Sold out",
-      "in_stock": "In stock",
-      "oversell_stock": "Re-stocking soon",
-      "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
+      "choose_options": "選擇選項",
+      "quantity": "數量",
+      "variant": "變種",
+      "unavailable": "無法購買",
+      "pre_order": "預購",
+      "add_to_cart": "加入購物車",
+      "sold_out": "已售罄",
+      "in_stock": "現貨",
+      "oversell_stock": "即將補貨",
+      "incoming_stock": "即將補貨，預計到貨日期為 {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
-        "one": "Only {{count}} unit left",
-        "other": "Only {{count}} units left"
+        "one": "僅剩下 {{count}} 個",
+        "other": "僅剩下 {{count}} 個"
       },
-      "contact_us": "Contact us"
+      "contact_us": "聯繫我們"
     }
   },
   "store_availability": {
