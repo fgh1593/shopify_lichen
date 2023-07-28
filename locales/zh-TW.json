@@ -58,75 +58,75 @@
   },
   "header": {
     "general": {
-      "navigation": "Navigation",
-      "newsletter": "Newsletter",
-      "login": "Login",
-      "account": "Account",
-      "cart": "Cart",
-      "language": "Language",
-      "country": "Country\/region"
+      "navigation": "導航",
+      "newsletter": "通訊",
+      "login": "登入",
+      "account": "帳戶",
+      "cart": "購物車",
+      "language": "語言",
+      "country": "國家\/地區"
     }
   },
   "footer": {
     "general": {
-      "language": "Language",
-      "country": "Country\/region",
-      "we_accept": "We accept"
+      "language": "語言",
+      "country": "國家\/地區",
+      "we_accept": "我們接受"
     },
     "newsletter": {
-      "email": "Your e-mail",
-      "submit": "Register",
-      "success": "You have been registered to our newsletter."
+      "email": "您的電子郵件",
+      "submit": "註冊",
+      "success": "您已成功註冊我們的通訊。"
     },
     "cookie_bar": {
-      "accept": "Accept",
-      "decline": "Decline"
+      "accept": "接受",
+      "decline": "拒絕"
     }
   },
   "cart": {
     "general": {
-      "title": "Cart",
-      "empty": "Your cart is empty",
-      "start_shopping": "Start shopping",
-      "free_shipping": "You are eligible for free shipping!",
-      "free_shipping_remaining_html": "Spend {{ remaining_amount }} more and get free shipping!",
-      "free": "Free!",
-      "no_more_stock": "No more stock",
-      "shipping_tax_note": "Shipping & taxes calculated at checkout",
-      "product": "Product",
-      "quantity": "Quantity",
-      "decrease_quantity": "Decrease quantity",
-      "increase_quantity": "Increase quantity",
-      "change_quantity": "Change quantity",
-      "remove": "Remove",
-      "order_note": "Order note",
-      "add_order_note": "Add order note",
-      "edit_order_note": "Edit order note",
-      "order_note_placeholder": "How can we help you?",
-      "order_note_save": "Save",
-      "total": "Total",
-      "checkout": "Checkout",
-      "go_to_cart": "Go to cart",
-      "we_accept": "We accept",
-      "item_added": "Item added to your cart!",
-      "item_added_short": "Added to your cart!",
-      "view_cart": "View cart",
+      "title": "購物車",
+      "empty": "您的購物車是空的",
+      "start_shopping": "開始購物",
+      "free_shipping": "您有資格獲得免運費！",
+      "free_shipping_remaining_html": "再消費 {{ remaining_amount }} 可享免運費！",
+      "free": "免費！",
+      "no_more_stock": "無庫存",
+      "shipping_tax_note": "運費和稅費將於結帳時計算",
+      "product": "產品",
+      "quantity": "數量",
+      "decrease_quantity": "減少數量",
+      "increase_quantity": "增加數量",
+      "change_quantity": "更改數量",
+      "remove": "移除",
+      "order_note": "訂單備註",
+      "add_order_note": "添加訂單備註",
+      "edit_order_note": "編輯訂單備註",
+      "order_note_placeholder": "您需要幫助嗎？",
+      "order_note_save": "儲存",
+      "total": "總計",
+      "checkout": "結帳",
+      "go_to_cart": "前往購物車",
+      "we_accept": "我們接受",
+      "item_added": "已將項目添加至您的購物車！",
+      "item_added_short": "已添加至購物車！",
+      "view_cart": "查看購物車",
       "item_count": {
-        "zero": "{{ count }} items",
-        "one": "{{ count }} item",
-        "other": "{{ count }} items"
+        "zero": "{{ count }} 項產品",
+        "one": "{{ count }} 項產品",
+        "other": "{{ count }} 項產品"
       }
     },
     "shipping_estimator": {
-      "estimate_shipping": "Estimate shipping",
-      "country": "Country",
-      "province": "Province",
-      "zip_code": "Zip code",
-      "submit": "Estimate",
-      "no_results": "Sorry, we do not ship to your address.",
-      "one_result": "There is one shipping rate for your address:",
-      "multiple_results": "There are several shipping rates for your address:",
-      "error": "One or more error occurred while retrieving shipping rates:"
+      "estimate_shipping": "運費預估",
+      "country": "國家",
+      "province": "省份",
+      "zip_code": "郵遞區號",
+      "submit": "預估",
+      "no_results": "很抱歉，我們不會運送到您的地址。",
+      "one_result": "您的地址只有一種運費率：",
+      "multiple_results": "您的地址有多種運費率：",
+      "error": "檢索運費率時出現一個或多個錯誤："
     }
   },
   "collection": {
