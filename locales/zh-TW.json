@@ -1,59 +1,59 @@
 {
   "general": {
     "meta": {
-      "page": "Page {{ page }}"
+      "page": "頁面 {{ page }}"
     },
     "label": {
-      "color": "Color,Colour",
-      "white": "White",
-      "size": "Size"
+      "color": "顏色",
+      "white": "白色",
+      "size": "尺寸"
     },
     "breadcrumb": {
-      "title": "Breadcrumb",
-      "home": "Home"
+      "title": "麵包屑",
+      "home": "首頁"
     },
     "pagination": {
-      "previous_page": "Previous",
-      "next_page": "Next",
-      "go_to_page": "Navigate to page {{page}}"
+      "previous_page": "上一頁",
+      "next_page": "下一頁",
+      "go_to_page": "前往第 {{page}} 頁"
     },
     "accessibility": {
-      "skip_to_content": "Skip to content",
-      "close": "Close",
-      "previous": "Previous",
-      "next": "Next",
-      "play_video": "Play video",
-      "go_to_slide": "Go to slide {{num}}",
-      "delete": "Delete",
-      "show_product": "Show product {{title}}",
-      "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars"
+      "skip_to_content": "跳至內容",
+      "close": "關閉",
+      "previous": "上一頁",
+      "next": "下一頁",
+      "play_video": "播放視頻",
+      "go_to_slide": "前往第 {{num}} 張幻燈片",
+      "delete": "刪除",
+      "show_product": "顯示產品 {{title}}",
+      "star_reviews_info": "{{ rating_value }} 分（滿分 {{ rating_max }} ）"
     },
     "social": {
-      "facebook_share": "Share on Facebook",
-      "pinterest_pin": "Pin on Pinterest",
-      "twitter_tweet": "Tweet on Twitter",
-      "email_share": "Share by e-mail",
-      "email_label": "E-mail",
-      "follow_label": "Follow us on {{ social_media }}"
+      "facebook_share": "分享至 Facebook",
+      "pinterest_pin": "釘在 Pinterest",
+      "twitter_tweet": "在 Twitter 上推文",
+      "email_share": "通過電子郵件分享",
+      "email_label": "電子郵件",
+      "follow_label": "關注我們的 {{ social_media }}"
     },
     "newsletter": {
-      "email": "Your e-mail",
-      "subscribe": "Subscribe",
-      "success": "You have been subscribed to our newsletter"
+      "email": "您的電子郵件",
+      "subscribe": "訂閱",
+      "success": "您已成功訂閱我們的通訊"
     },
     "faq": {
-      "categories": "Categories"
+      "categories": "分類"
     },
     "form": {
-      "max_characters": "{{ max_chars }} characters max"
+      "max_characters": "最多 {{ max_chars }} 個字符"
     },
     "onboarding": {
-      "blog_post_category": "Category",
-      "blog_post_title": "Article",
-      "product_vendor": "Vendor",
-      "product_title": "Product",
-      "product_description": "Write text about your product.",
-      "collection_title": "Collection"
+      "blog_post_category": "分類",
+      "blog_post_title": "文章",
+      "product_vendor": "供應商",
+      "product_title": "產品",
+      "product_description": "編寫有關您產品的文字。",
+      "collection_title": "收藏"
     }
   },
   "header": {
