@@ -1,1 +1,86 @@
-{"sections":{"collection-banner":{"type":"collection-banner","settings":{"show_collection_image":false,"show_collection_title":true,"show_collection_description":true,"section_height":"small","text_width":"medium","image_text_color":"#ffffff","image_overlay_color":"#000000","image_overlay_opacity":30,"quick_links":""}},"b2081a25-4341-42cc-821d-015ecbf88ae4":{"type":"collection-list","blocks":{"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-0":{"type":"collection","settings":{"collection":"黑色長方形盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-1":{"type":"collection","settings":{"collection":"黑色正方形盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-2":{"type":"collection","settings":{"collection":"黑色圓型盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-3":{"type":"collection","settings":{"collection":"紅黑便當盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-4":{"type":"collection","settings":{"collection":"壽司盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-5":{"type":"collection","settings":{"collection":"年菜盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"11f6c679-985b-431f-9484-e433b9d95123":{"type":"collection","settings":{"collection":"小菜盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"f50d5284-c608-4499-8ffb-c7841a1beb74":{"type":"collection","settings":{"collection":"八角盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}},"8f853218-2cff-40a8-9f63-26c336ac18d1":{"type":"collection","settings":{"collection":"外扣餐盒","subheading":"","title":"","link_text":"","link_url":"","text_color":"rgba(0,0,0,0)","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-0","template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-1","template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-2","template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-3","template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-4","template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-5","11f6c679-985b-431f-9484-e433b9d95123","f50d5284-c608-4499-8ffb-c7841a1beb74","8f853218-2cff-40a8-9f63-26c336ac18d1"],"settings":{"reveal_on_scroll":false,"layout":"grid","subheading":"","title":"","background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"main":{"type":"main-collection","disabled":true,"custom_css":[".price {display: none;}"],"settings":{"show_sort_by":false,"products_per_page":24,"mobile_products_per_row":"2","desktop_products_per_row":4,"show_filters":false,"show_filter_group_name":false,"show_color_swatch":false,"open_first_filter_group":false,"filter_position":"always_visible","promotion_position":"top","promotion_height":"small"}}},"order":["collection-banner","b2081a25-4341-42cc-821d-015ecbf88ae4","main"]}
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": false,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "b2081a25-4341-42cc-821d-015ecbf88ae4": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "年菜盒",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "f99a4a01-986a-41a0-a082-8833ffb4263f": {
+          "type": "collection",
+          "settings": {
+            "collection": "黑色塑膠餐盒",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-5",
+        "f99a4a01-986a-41a0-a082-8833ffb4263f"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+        ".price {display: none;}"
+      ],
+      "settings": {
+        "show_sort_by": false,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": false,
+        "show_filter_group_name": false,
+        "show_color_swatch": false,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "b2081a25-4341-42cc-821d-015ecbf88ae4",
+    "main"
+  ]
+}
