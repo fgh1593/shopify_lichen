@@ -8,7 +8,7 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_mode": "block",
-            "color_mode": "color",
+            "color_mode": "block",
             "size_chart_page": ""
           }
         },
@@ -51,8 +51,8 @@
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
+        "show_thumbnails_on_mobile": true,
+        "desktop_thumbnails_position": "left",
         "transition_effect": "slide"
       }
     },
