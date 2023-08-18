@@ -4,7 +4,6 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "message-1": {
           "type": "message",
@@ -21,6 +20,7 @@
       "block_order": [
         "message-1"
       ],
+      "disabled": true,
       "settings": {
         "announcement_bar_position": "non_sticky",
         "announcement_text_size": "normal",
@@ -34,64 +34,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "138c13a7-d897-4b57-8b11-53e0f3f3758f": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "塑膠類免洗餐具",
-            "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/reduce-reuse-recycle.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify:\/\/collections\/plastic",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
-        },
-        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "袋子",
-            "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/bag-of-green-candy-gumballs.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify:\/\/collections\/袋子",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "138c13a7-d897-4b57-8b11-53e0f3f3758f",
-        "4d0a8c86-b6fc-48f0-aac2-b1ca216f0433"
-      ],
       "custom_css": [
         ".icon--header-cart {display: none;}",
         ".header__cart-count {display: none;}"
