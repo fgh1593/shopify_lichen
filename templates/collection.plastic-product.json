@@ -180,6 +180,19 @@
             "overlay_opacity": 30
           }
         },
+        "67d66776-9554-444f-82e8-743ac7122654": {
+          "type": "collection",
+          "settings": {
+            "collection": "塑膠袋子",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "4bfedcaa-6627-49dd-8385-73b777819a3d": {
           "type": "collection",
           "settings": {
@@ -206,6 +219,7 @@
         "75d61b04-fd2f-4372-970c-b5d2e0f5eaf0",
         "698cd7a3-f3ce-48bd-9113-0a7aa3029dbd",
         "b82f1de2-3fd6-4505-a13d-16bbc14eb66a",
+        "67d66776-9554-444f-82e8-743ac7122654",
         "4bfedcaa-6627-49dd-8385-73b777819a3d"
       ],
       "settings": {
