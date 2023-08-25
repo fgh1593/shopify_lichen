@@ -16,6 +16,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
         ".price {display: none;}"
       ],
@@ -32,10 +33,82 @@
         "promotion_position": "top",
         "promotion_height": "small"
       }
+    },
+    "ca39897a-41bb-4ab6-806c-213b9c153397": {
+      "type": "collection-list",
+      "blocks": {
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "衛生紙",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "清潔劑",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "打掃用具",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "廚房用品",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-1",
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-2",
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-3",
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-4"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "collection-banner",
-    "main"
+    "main",
+    "ca39897a-41bb-4ab6-806c-213b9c153397"
   ]
 }

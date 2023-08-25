@@ -121,6 +121,19 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "09fecbf7-f5c5-4505-b4ba-78890ceb53e5": {
+          "type": "collection",
+          "settings": {
+            "collection": "生活百貨-清潔用品",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
@@ -129,7 +142,8 @@
         "collection-3",
         "71bd33de-f648-41bc-b6a5-05918c528b02",
         "aca583df-c714-4353-9af6-dcd7721a89c2",
-        "0064390f-885a-42c1-ba97-ea2b9ab49d0b"
+        "0064390f-885a-42c1-ba97-ea2b9ab49d0b",
+        "09fecbf7-f5c5-4505-b4ba-78890ceb53e5"
       ],
       "custom_css": [
         ".list-collections__item-image {max-width: 80%; max-height: auto;}"
