@@ -73,6 +73,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
         ".price {display: none;}"
       ],
