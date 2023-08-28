@@ -88,13 +88,55 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "db4e1514-f2f8-468b-9fd1-cbbe8f11b044": {
+          "type": "collection",
+          "settings": {
+            "collection": "膠帶",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "c620832d-3e6f-49b2-9f17-76546a3fde42": {
+          "type": "collection",
+          "settings": {
+            "collection": "手套",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "999873c6-555c-4a4c-96a8-ff14d31f78f0": {
+          "type": "collection",
+          "settings": {
+            "collection": "其它百貨",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-1",
         "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-2",
         "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-3",
-        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-4"
+        "template--20757059371316__ca39897a-41bb-4ab6-806c-213b9c153397-collection-4",
+        "db4e1514-f2f8-468b-9fd1-cbbe8f11b044",
+        "c620832d-3e6f-49b2-9f17-76546a3fde42",
+        "999873c6-555c-4a4c-96a8-ff14d31f78f0"
       ],
       "settings": {
         "reveal_on_scroll": false,
