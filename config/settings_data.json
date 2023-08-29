@@ -41,6 +41,7 @@
     "product_image_size": "natural",
     "cart_type": "message",
     "cart_show_free_shipping_threshold": true,
+    "favicon": "shopify:\/\/shop_images\/LOGO_d1366396-4485-43e7-b4e3-f430d6d5341d.png",
     "checkout_sidebar_background_color": "#f5f5f5",
     "checkout_accent_color": "#282828",
     "checkout_button_color": "#405de6",
