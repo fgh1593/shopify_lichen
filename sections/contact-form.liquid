@@ -44,7 +44,7 @@
 <section class="section {% if template.name == 'page' and template.suffix contains 'contact' %}section--tight{% endif %} {% unless blends_with_background %}section--flush{% endunless %}">
   <div class="section__color-wrapper">
     <div class="container">
-      {% comment %} <div class="contact {% unless blends_with_background %}vertical-breather{% endunless %}">
+     <div class="contact {% unless blends_with_background %}vertical-breather{% endunless %}">
         {%- capture aside_content -%}
           {%- if section.settings.image != blank -%}
             {{- section.settings.image | image_url: width: section.settings.image.width | image_tag: loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 24px * 2), 530px', widths: '200,300,400,500,600,800,1000,1200,1400', class: 'contact__image' -}}
@@ -194,8 +194,8 @@
             {{- aside_content -}}
           </aside>
         {%- endif -%}
-      </div> {% endcomment %}
-      <p>
+      </div>
+      <!-- <p>
         台南及高雄地區的客戶請聯絡 : 
         <br><br>
         利成塑膠廠-台南據點<br>
@@ -211,7 +211,7 @@
         &nbsp傳真 : 05-2062606<br>
         &nbsp住址 : 嘉義縣民雄鄉中央村田中央68號之33<br>
         &nbsp信箱:a0960711082@gmail.com<br><br><br>
-      </p>
+      </p> -->
     </div>
   </div>
 </section>
