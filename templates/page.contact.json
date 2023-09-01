@@ -23,10 +23,29 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "ee1939e0-fcc8-4a32-bd3d-7dd0bb67e6ab": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "聯絡我們",
+        "content": "<p>台南及高雄地區的客戶請聯絡 :<br\/><br\/>利成塑膠廠-台南據點<br\/> 電話:06-2475328<br\/> 傳真:06-2450221<br\/> 住址:台南市安南區怡安路二段500號<br\/> 信箱:a2475328@gmail.com<br\/><br\/><br\/>台中、彰化、南投、雲林、嘉義地區的客戶請聯絡 :<br\/><br\/>全合成塑膠廠-嘉義據點<br\/> 電話 : 05-2062101<br\/> 傳真 : 05-2062606<br\/> 住址 : 嘉義縣民雄鄉中央村田中央68號之33<br\/> 信箱:a0960711082@gmail.com<br\/><br\/><\/p>",
+        "button_text": "",
+        "button_link": "shopify:\/\/pages\/avada-sitemap",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "main",
-    "contact-form"
+    "contact-form",
+    "ee1939e0-fcc8-4a32-bd3d-7dd0bb67e6ab"
   ]
 }
