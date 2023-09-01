@@ -90,14 +90,6 @@
                   </div>
               {%- endif -%}
             {%- endfor -%}
-
-            {%- if image_count == 0 -%}
-              {%- if section.settings.reveal_on_scroll -%}
-                {{- 'image' | placeholder_svg_tag: 'image-with-text__image placeholder-background' | replace: '<svg', '<svg reveal-visibility' -}}
-              {%- else -%}
-                {{- 'image' | placeholder_svg_tag: 'image-with-text__image placeholder-background' -}}
-              {%- endif -%}
-            {%- endif -%}
           </div>
 
           <div class="image-with-text__content-wrapper">
