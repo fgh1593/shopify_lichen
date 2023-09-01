@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_title": true,
         "page_width": "medium"
@@ -26,6 +25,7 @@
     },
     "ee1939e0-fcc8-4a32-bd3d-7dd0bb67e6ab": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "聯絡我們",
