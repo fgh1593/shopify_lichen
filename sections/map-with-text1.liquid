@@ -84,12 +84,31 @@
 
           <div class="image-with-text__image-wrapper">
             {%- for block in section.blocks -%}
-              {%- if block.settings.map_embed_code != blank -%}
-                <div class="map-container">
-                    {{ block.settings.map_embed_code }}
-                </div>
+              {%- if block.settings.image != blank -%}
+                {%- capture id_attribute -%}block-{{ block.id }}-{{ block.settings.image.id }}{%- endcapture -%}
+                {%- assign is_hidden = true -%}
+
+                {%- if image_count == 0 -%}
+                  {%- assign is_hidden = false -%}
+                {%- endif -%}
+
+                {%- if section.settings.reveal_on_scroll -%}
+                  {%- if is_hidden -%}
+                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', reveal-visibility: true, hidden: true, class: 'image-with-text__image' -}}
+                  {%- else -%}
+                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', reveal-visibility: true, class: 'image-with-text__image' -}}
+                  {%- endif -%}
+                {%- else -%}
+                  {%- if is_hidden -%}
+                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', hidden: true, class: 'image-with-text__image' -}}
+                  {%- else -%}
+                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', class: 'image-with-text__image' -}}
+                  {%- endif -%}
+                {%- endif -%}
+
+                {%- assign image_count = image_count | plus: 1 -%}
               {%- endif -%}
-          {%- endfor -%}
+            {%- endfor -%}
 
             {%- if image_count == 0 -%}
               {%- if section.settings.reveal_on_scroll -%}
@@ -150,7 +169,7 @@
 
 {% schema %}
 {
-  "name": "map with text1",
+  "name": "Image with text",
   "class": "shopify-section--image-with-text",
   "max_blocks": 2,
   "disabled_on": {
@@ -278,10 +297,10 @@
       "name": "Item",
       "settings": [
         {
-          "type": "page",
-          "id": "map_embed_code",
-          "label": "嵌入式地圖代碼",
-          "info": "輸入您的嵌入式地圖代碼"
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "1400 x 1400px .jpg recommended"
         },
         {
           "type": "text",
@@ -323,7 +342,7 @@
   ],
   "presets": [
     {
-      "name": "map with text1",
+      "name": "Image with text",
       "settings": {},
       "blocks": [
         {
