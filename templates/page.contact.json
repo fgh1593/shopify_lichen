@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        ".breadcrumb__list{display:none}"
+      ],
       "settings": {
         "show_title": true,
         "page_width": "medium"
