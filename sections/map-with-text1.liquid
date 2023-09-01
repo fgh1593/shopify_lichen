@@ -84,29 +84,10 @@
 
           <div class="image-with-text__image-wrapper">
             {%- for block in section.blocks -%}
-              {%- if block.settings.image != blank -%}
-                {%- capture id_attribute -%}block-{{ block.id }}-{{ block.settings.image.id }}{%- endcapture -%}
-                {%- assign is_hidden = true -%}
-
-                {%- if image_count == 0 -%}
-                  {%- assign is_hidden = false -%}
-                {%- endif -%}
-
-                {%- if section.settings.reveal_on_scroll -%}
-                  {%- if is_hidden -%}
-                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', reveal-visibility: true, hidden: true, class: 'image-with-text__image' -}}
-                  {%- else -%}
-                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', reveal-visibility: true, class: 'image-with-text__image' -}}
-                  {%- endif -%}
-                {%- else -%}
-                  {%- if is_hidden -%}
-                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', hidden: true, class: 'image-with-text__image' -}}
-                  {%- else -%}
-                    {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: id: id_attribute, loading: 'lazy', sizes: '(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px', widths: '600,700,800,1000,1200,1400', class: 'image-with-text__image' -}}
-                  {%- endif -%}
-                {%- endif -%}
-
-                {%- assign image_count = image_count | plus: 1 -%}
+               {%- if block.settings.google_map_embed != blank -%}
+                  <div class="google-map">
+                    {{ block.settings.google_map_embed | escape}}
+                  </div>
               {%- endif -%}
             {%- endfor -%}
 
@@ -296,12 +277,12 @@
       "type": "item",
       "name": "Item",
       "settings": [
-{
-  "type": "html",
-  "id": "google_map_embed",
-  "label": "Google Map Embed",
-  "default": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.1535624779727!2d-122.41941558448795!3d37.774929979753025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085806f8b6d4e9d%3A0xfac58c349831b553!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1612882927491!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
-},
+        {
+          "type": "html",
+          "id": "google_map_embed",
+          "label": "Google Map Embed",
+          "default": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.1535624779727!2d-122.41941558448795!3d37.774929979753025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085806f8b6d4e9d%3A0xfac58c349831b553!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1612882927491!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+        },
         {
           "type": "text",
           "id": "tab_label",
