@@ -83,9 +83,13 @@
           {%- assign image_count = 0 -%}
 
           <div class="image-with-text__image-wrapper">
-   
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.4206967427253!2d120.19200791091131!3d23.045033215402658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77a2b84da2ed%3A0xc0aabea5a0fa224c!2z5Yip5oiQ5YWN5rSX6aSQ5YW3!5e0!3m2!1szh-TW!2stw!4v1693539662250!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+            {%- for block in section.blocks -%}
+              {%- if block.settings.map_embed_code != blank -%}
+                <div class="map-container">
+                    {{ block.settings.map_embed_code }}
+                </div>
+              {%- endif -%}
+            {%- endfor -%}
 
             {%- if image_count == 0 -%}
               {%- if section.settings.reveal_on_scroll -%}
@@ -274,10 +278,10 @@
       "name": "Item",
       "settings": [
         {
-          "type": "image_picker",
-          "id": "image",
-          "label": "Image",
-          "info": "1400 x 1400px .jpg recommended"
+          "type": "richtext",
+          "id": "map_embed_code",
+          "label": "嵌入式地圖代碼",
+          "info": "輸入您的嵌入式地圖代碼"
         },
         {
           "type": "text",
