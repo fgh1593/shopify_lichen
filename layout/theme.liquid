@@ -19,6 +19,13 @@ all events, dependencies...) in the "custom.js" file, located in the Assets fold
   class="no-js"
   lang="{{ request.locale.iso_code }}"
   dir="{{ direction }}">
+  <script>
+
+/* don't expect this to work on older ie */
+
+window.oncontextmenu = function () { return false; }
+
+</script>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
