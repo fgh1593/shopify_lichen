@@ -47,6 +47,19 @@
             "overlay_opacity": 30
           }
         },
+        "e1dc4489-e020-484e-ad43-c44044bc8394": {
+          "type": "collection",
+          "settings": {
+            "collection": "牛皮紙袋",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "template--19338607788340__00e7190d-2eb9-48ec-bccd-8fff3449ac1e-1685689373c8a84714-2": {
           "type": "collection",
           "settings": {
@@ -89,6 +102,7 @@
       },
       "block_order": [
         "template--19338607788340__00e7190d-2eb9-48ec-bccd-8fff3449ac1e-1685689373c8a84714-0",
+        "e1dc4489-e020-484e-ad43-c44044bc8394",
         "template--19338607788340__00e7190d-2eb9-48ec-bccd-8fff3449ac1e-1685689373c8a84714-2",
         "template--19338607788340__00e7190d-2eb9-48ec-bccd-8fff3449ac1e-1685689373c8a84714-3",
         "0b1e8bb5-efce-4204-9d53-7829c72f3136"
