@@ -157,6 +157,36 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
+    "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
+      "type": "gallery",
+      "blocks": {
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mesadetrabajo1.png",
+            "caption": ""
+          }
+        },
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_72baca39-62c6-471b-a636-d4b49de3bbd1.png",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1",
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "產品推薦",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "f250983f-eabc-4d79-97e8-a37321417bc8": {
       "type": "video",
       "settings": {
@@ -248,6 +278,7 @@
         "item-1",
         "item-2"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
@@ -340,53 +371,16 @@
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
-    },
-    "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
-      "type": "gallery",
-      "blocks": {
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Mesadetrabajo1.png",
-            "caption": ""
-          }
-        },
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_72baca39-62c6-471b-a636-d4b49de3bbd1.png",
-            "caption": ""
-          }
-        },
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-3": {
-          "type": "image",
-          "settings": {
-            "caption": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1",
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2",
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-3"
-      ],
-      "settings": {
-        "subheading": "Subheading",
-        "title": "Gallery",
-        "show_arrows": true,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
     "slideshow",
     "collection-list",
+    "281a825c-9d69-4e9e-be0e-d1220a2e81f1",
     "f250983f-eabc-4d79-97e8-a37321417bc8",
     "564db415-b60b-49fa-b955-d7888f42f912",
     "image-with-text",
     "blog-posts",
-    "4ee037fa-c28f-4a8d-a83a-87835a9e1f69",
-    "281a825c-9d69-4e9e-be0e-d1220a2e81f1"
+    "4ee037fa-c28f-4a8d-a83a-87835a9e1f69"
   ]
 }
