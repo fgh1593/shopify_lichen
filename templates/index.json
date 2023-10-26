@@ -159,6 +159,7 @@
       "blocks": {
         "6d403621-999a-46e5-abd0-bf76d068a2b3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1_5c9a0e35-2c62-4be3-898b-144e1ef12409.jpg",
             "caption": ""
