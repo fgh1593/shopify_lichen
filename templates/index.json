@@ -257,22 +257,22 @@
         "item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5_72baca39-62c6-471b-a636-d4b49de3bbd1.png",
-            "tab_label": "鈕開樂沙拉盒",
-            "subheading": "露營出遊好選擇",
-            "title": "鈕開樂沙拉盒",
-            "content": "<p>盒身好蓋、好開、防漏、防霧<\/p><p>野餐、露營輕鬆帶出門<\/p><p>適合盛裝輕食沙拉、三明治、水果、肉品海鮮分裝也OK<\/p><p>斷點設計破壞後，還有一定的密合度!<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_8241.jpg",
+            "tab_label": "植纖餐盒",
+            "subheading": "環保又時髦",
+            "title": "植纖餐盒",
+            "content": "<p>可在4個月間在自然環境中完全降解<\/p><p>對環境無負擔，一起守護大自然<\/p>",
             "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/products\/鈕開樂"
+            "button_link": "shopify:\/\/collections\/植纖餐盒-1"
           }
         },
         "item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bece49e9-9678-4f2d-a5f4-0a7996b71a4e.png",
-            "tab_label": "植纖餐具",
+            "image": "shopify:\/\/shop_images\/IMG_8285.jpg",
+            "tab_label": "植纖橢圓餐盒",
             "subheading": "環保新選擇",
-            "title": "植纖餐具",
+            "title": "植纖橢圓餐盒",
             "content": "<p>防油防水無淋膜<\/p><p>4個月自然降解，環境無負擔<\/p>",
             "button_text": "點擊看更多",
             "button_link": "shopify:\/\/collections\/植纖餐盒"
@@ -283,7 +283,6 @@
         "item-1",
         "item-2"
       ],
-      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
