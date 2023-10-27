@@ -206,51 +206,6 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "564db415-b60b-49fa-b955-d7888f42f912": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_5de68d33-1dd5-4413-9672-9fe310302c85.png",
-            "tab_label": "38口徑鋁蓋",
-            "subheading": "質感新選擇",
-            "title": "38口徑鋁蓋",
-            "content": "<p>採用旋擰設計、讓密封性更強<\/p>",
-            "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/pet-bottle"
-          }
-        },
-        "596e98d2-b662-401b-8071-dc20e2918484": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/40dcb1b2156f6281edbd3e65d0a048c2.png",
-            "tab_label": "各式紙杯",
-            "subheading": "完美替換塑膠杯",
-            "title": "各式紙杯",
-            "content": "<p>面對禁塑，找不到合適的替代紙杯嗎?<\/p><p>我們有各種紙杯讓您選擇!<\/p>",
-            "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/紙杯"
-          }
-        }
-      },
-      "block_order": [
-        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0",
-        "596e98d2-b662-401b-8071-dc20e2918484"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "right",
-        "text_alignment": "center",
-        "cycle_speed": 3,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -288,6 +243,51 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 3,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "564db415-b60b-49fa-b955-d7888f42f912": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_5de68d33-1dd5-4413-9672-9fe310302c85.png",
+            "tab_label": "38口徑鋁蓋",
+            "subheading": "質感新選擇",
+            "title": "38口徑鋁蓋",
+            "content": "<p>採用旋擰設計、讓密封性更強<\/p>",
+            "button_text": "點擊看更多",
+            "button_link": "shopify:\/\/collections\/pet-bottle"
+          }
+        },
+        "596e98d2-b662-401b-8071-dc20e2918484": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/40dcb1b2156f6281edbd3e65d0a048c2.png",
+            "tab_label": "各式紙杯",
+            "subheading": "完美替換塑膠杯",
+            "title": "各式紙杯",
+            "content": "<p>面對禁塑，找不到合適的替代紙杯嗎?<\/p><p>我們有各種紙杯讓您選擇!<\/p>",
+            "button_text": "點擊看更多",
+            "button_link": "shopify:\/\/collections\/紙杯"
+          }
+        }
+      },
+      "block_order": [
+        "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0",
+        "596e98d2-b662-401b-8071-dc20e2918484"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
         "text_alignment": "center",
         "cycle_speed": 3,
         "accent_background": "rgba(0,0,0,0)",
@@ -382,8 +382,8 @@
     "collection-list",
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1",
     "f250983f-eabc-4d79-97e8-a37321417bc8",
-    "564db415-b60b-49fa-b955-d7888f42f912",
     "image-with-text",
+    "564db415-b60b-49fa-b955-d7888f42f912",
     "blog-posts",
     "4ee037fa-c28f-4a8d-a83a-87835a9e1f69"
   ]
