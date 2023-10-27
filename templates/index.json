@@ -187,7 +187,7 @@
       "settings": {
         "subheading": "",
         "title": "產品推薦",
-        "show_arrows": true,
+        "show_arrows": false,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
