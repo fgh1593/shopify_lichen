@@ -232,13 +232,13 @@
         "item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8285.jpg",
-            "tab_label": "植纖橢圓餐盒",
-            "subheading": "環保新選擇",
-            "title": "植纖橢圓餐盒",
-            "content": "<p>防油防水無淋膜<\/p><p>4個月自然降解，環境無負擔<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_8303.jpg",
+            "tab_label": "八角輕食盒OLLC",
+            "subheading": "時尚新造型",
+            "title": "八角輕食盒OLLC",
+            "content": "<p>實用、時尚<\/p><p>層層堆疊真方便<\/p>",
             "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/植纖餐盒-1"
+            "button_link": "shopify:\/\/products\/八角輕食盒"
           }
         }
       },
