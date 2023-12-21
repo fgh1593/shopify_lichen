@@ -50,6 +50,19 @@
             "overlay_opacity": 30
           }
         },
+        "ba03ae64-21fa-4ff8-91a1-b12ca16b8bfc": {
+          "type": "collection",
+          "settings": {
+            "collection": "塑膠罐",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-1": {
           "type": "collection",
           "settings": {
@@ -209,6 +222,7 @@
       },
       "block_order": [
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-0",
+        "ba03ae64-21fa-4ff8-91a1-b12ca16b8bfc",
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-1",
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-2",
         "template--19337814671668__71e864a9-b21d-4ad5-b050-b49bad7e5c70-1685689373c8a84714-3",
