@@ -30,6 +30,9 @@ window.oncontextmenu = function () { return false; }
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
+    {%- if handle contains 'seq=uniform' -%}
+      <meta name="robots" content="noindex, nofollow">
+    {%- endif -%}
 
     <title>
       {% if page_title == blank %}
@@ -209,7 +212,3 @@ window.oncontextmenu = function () { return false; }
     {%- endif -%}
   </body>
 </html>
-
-{%- if handle contains 'seq=uniform' -%}
-  <meta name="robots" content="noindex, nofollow">
-{%- endif -%}
