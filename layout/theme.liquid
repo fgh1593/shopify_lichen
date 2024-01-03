@@ -209,3 +209,7 @@ window.oncontextmenu = function () { return false; }
     {%- endif -%}
   </body>
 </html>
+
+{%- if canonical_url="*seq=uniform" -%}
+  <meta name="robots" content="noindex, nofollow">
+{%- endif -%}
