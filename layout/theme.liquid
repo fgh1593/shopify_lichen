@@ -27,10 +27,23 @@ window.oncontextmenu = function () { return false; }
 
 </script>
   <head>
+    {%- capture contentForQueryString -%}{{ content_for_header }}{%- endcapture -%}
+    {%- assign pageUrl = contentForQueryString
+      | split: '"pageurl":"'
+      | last
+      | split: '"'
+      | first
+      | split: '.myshopify.com'
+      | last
+      | replace: '\/', '/'
+      | replace: '%20', ' '
+      | replace: '\u0026', '&'
+    -%}
+    {% capture href %}https://www.lichen74.com{{ pageUrl }}{% endcapture %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
-    {%- if handle contains 'seq=uniform' -%}
+    {%- if href contains 'seq=uniform' -%}
       <meta name="robots" content="noindex, nofollow">
     {%- endif -%}
 
