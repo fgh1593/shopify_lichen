@@ -26,6 +26,24 @@ all events, dependencies...) in the "custom.js" file, located in the Assets fold
 window.oncontextmenu = function () { return false; }
 
 </script>
+<script>
+  const addRobotsMetaTag = function() {
+    // get the robots meta tag
+    var metaRobots = document.querySelector('meta[name="robots"]');
+    // if there was no robots meta tag, add one
+    if (!metaRobots) {
+      metaRobots = document.createElement('meta');
+      metaRobots.setAttribute('name', 'robots');
+      document.head.appendChild(metaRobots);
+    }
+    // tell Google to exclude this page from the index
+    metaRobots.setAttribute('content', 'noindex, nofollow');
+  }
+
+  if(window.location.href.includes('pr_prod_strat')) {
+    addRobotsMetaTag();
+  }
+</script>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
