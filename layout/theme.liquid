@@ -37,11 +37,11 @@ window.oncontextmenu = function () { return false; }
       document.head.appendChild(metaRobots);
     }
     // tell Google to exclude this page from the index
-    metaRobots.setAttribute('content', 'noindex, nofollow');
+    metaRobots.setAttribute('content', 'noindex, follow');
   }
 
   if(window.location.href.includes('pr_prod_strat')) {
-    addRobotsMetaTag();
+    // addRobotsMetaTag();
   }
 </script>
   <head>
