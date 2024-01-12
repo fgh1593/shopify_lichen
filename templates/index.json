@@ -176,6 +176,13 @@
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
       "type": "gallery",
       "blocks": {
+        "image_Eq9GCD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "caption": ""
+          }
+        },
         "e52c2970-678b-476e-a8df-d0174161542d": {
           "type": "image",
           "settings": {
@@ -206,6 +213,7 @@
         }
       },
       "block_order": [
+        "image_Eq9GCD",
         "e52c2970-678b-476e-a8df-d0174161542d",
         "6d403621-999a-46e5-abd0-bf76d068a2b3",
         "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1",
@@ -284,13 +292,13 @@
         "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_5de68d33-1dd5-4413-9672-9fe310302c85.png",
+            "image": "shopify:\/\/shop_images\/1_ead005d6-d887-4c9f-b3fb-baa909c55fbd.png",
             "tab_label": "38口徑鋁蓋",
-            "subheading": "質感新選擇",
-            "title": "38口徑鋁蓋",
-            "content": "<p>採用旋擰設計、讓密封性更強<\/p>",
-            "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/pet-bottle"
+            "subheading": "看得到!吸得到!",
+            "title": "38口徑吸管蓋",
+            "content": "<p>紙杯看不到內容物、瓶子吸不到珍珠<\/p><p>兩個願望一次滿足<\/p><p>快來試試吸管蓋!<\/p>",
+            "button_text": "",
+            "button_link": ""
           }
         },
         "596e98d2-b662-401b-8071-dc20e2918484": {
