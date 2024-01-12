@@ -293,12 +293,12 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_ead005d6-d887-4c9f-b3fb-baa909c55fbd.png",
-            "tab_label": "38口徑鋁蓋",
+            "tab_label": "38口徑吸管蓋",
             "subheading": "看得到!吸得到!",
             "title": "38口徑吸管蓋",
             "content": "<p>紙杯看不到內容物、瓶子吸不到珍珠<\/p><p>兩個願望一次滿足<\/p><p>快來試試吸管蓋!<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "button_text": "點我看更多",
+            "button_link": "shopify:\/\/products\/38口徑瓶子吸管蓋"
           }
         },
         "596e98d2-b662-401b-8071-dc20e2918484": {
