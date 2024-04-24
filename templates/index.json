@@ -176,6 +176,13 @@
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
       "type": "gallery",
       "blocks": {
+        "image_6xEA8B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DM_B5___1.png",
+            "caption": ""
+          }
+        },
         "image_Eq9GCD": {
           "type": "image",
           "settings": {
@@ -213,6 +220,7 @@
         }
       },
       "block_order": [
+        "image_6xEA8B",
         "image_Eq9GCD",
         "e52c2970-678b-476e-a8df-d0174161542d",
         "6d403621-999a-46e5-abd0-bf76d068a2b3",
