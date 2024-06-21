@@ -262,23 +262,4 @@
       </product-image-zoom>
     {%- endif -%}
   </product-media>
-  {%-#----------自己加的---------%}
-    <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const variantImages = document.querySelectorAll('.variant-image');
-        const variantSelect = document.querySelector('select[name="id"]');
-
-        variantImages.forEach(image => {
-            image.addEventListener('click', function () {
-                const variantId = this.dataset.variantId;
-                if (variantId) {
-                    variantSelect.value = variantId;
-                    const event = new Event('change');
-                    variantSelect.dispatchEvent(event);
-                }
-            });
-        });
-    });
-  </script>
- {%-#----------自己加的---------%}
 {%- endif -%}
