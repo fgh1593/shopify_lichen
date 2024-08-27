@@ -60,7 +60,7 @@
         "section_height": "auto",
         "transition_type": "sweep",
         "autoplay": true,
-        "cycle_speed": 5,
+        "cycle_speed": 4,
         "background": "rgba(0,0,0,0)"
       }
     },
