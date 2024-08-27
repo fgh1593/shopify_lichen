@@ -185,6 +185,13 @@
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
       "type": "gallery",
       "blocks": {
+        "image_R4dKDV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/61dccbb9e4624e477cce1ff77dbea36e.png",
+            "caption": ""
+          }
+        },
         "image_6xEA8B": {
           "type": "image",
           "settings": {
@@ -229,6 +236,7 @@
         }
       },
       "block_order": [
+        "image_R4dKDV",
         "image_6xEA8B",
         "image_Eq9GCD",
         "e52c2970-678b-476e-a8df-d0174161542d",
