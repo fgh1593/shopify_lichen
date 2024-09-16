@@ -45,6 +45,18 @@ window.oncontextmenu = function () { return false; }
   }
 </script>
   <head>
+    {% comment %} ----------產品圖片不被點擊------------------ {% endcomment %}
+    <style>
+      body:has(.product-variant-picker-block) button.block.splide__arrow {
+        display: none !important;
+      }
+
+      body:has(.product-variant-picker-block) ul.block.mt-4.flex.flex-wrap.justify-center,
+      body:has(.product-variant-picker-block) div#productSplide-track {
+        pointer-events: none !important;
+      }
+    </style>
+    {% comment %} ------------------------------------------ {% endcomment %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
