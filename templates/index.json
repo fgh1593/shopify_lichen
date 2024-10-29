@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -15,7 +15,7 @@
         "image_drReVw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify://shop_images/2.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -33,7 +33,7 @@
         "bc76139e-41e9-4a99-be90-45fba0681327": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER-02_c9520561-5f47-4a8e-9d22-14464b98b433.jpg",
+            "image": "shopify://shop_images/BANNER-02_c9520561-5f47-4a8e-9d22-14464b98b433.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -51,7 +51,7 @@
         "image_eJVFJj": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER-01.jpg",
+            "image": "shopify://shop_images/BANNER-01.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -129,7 +129,7 @@
           "type": "collection",
           "settings": {
             "collection": "袋子",
-            "image": "shopify:\/\/shop_images\/5646b711cc3cb1b9c1aa5884a40a3b13.png",
+            "image": "shopify://shop_images/5646b711cc3cb1b9c1aa5884a40a3b13.png",
             "subheading": "",
             "title": "",
             "link_text": "",
@@ -143,7 +143,7 @@
           "type": "collection",
           "settings": {
             "collection": "鋁箔類免洗餐具",
-            "image": "shopify:\/\/shop_images\/40f49d0e6742a85cfd18e3112604dcc9.png",
+            "image": "shopify://shop_images/40f49d0e6742a85cfd18e3112604dcc9.png",
             "subheading": "",
             "title": "",
             "link_text": "",
@@ -204,64 +204,64 @@
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
       "type": "gallery",
       "blocks": {
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5_72baca39-62c6-471b-a636-d4b49de3bbd1.png",
+            "caption": ""
+          }
+        },
         "image_R4dKDV": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/61dccbb9e4624e477cce1ff77dbea36e.png",
+            "image": "shopify://shop_images/61dccbb9e4624e477cce1ff77dbea36e.png",
             "caption": ""
           }
         },
         "image_6xEA8B": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DM_B5___1.png",
+            "image": "shopify://shop_images/DM_B5___1.png",
             "caption": ""
           }
         },
         "image_Eq9GCD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify://shop_images/1.png",
             "caption": ""
           }
         },
         "e52c2970-678b-476e-a8df-d0174161542d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_418d60af-2340-4b97-b7a5-a4c88c4e10cf.jpg",
+            "image": "shopify://shop_images/2_418d60af-2340-4b97-b7a5-a4c88c4e10cf.jpg",
             "caption": ""
           }
         },
         "6d403621-999a-46e5-abd0-bf76d068a2b3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_5c9a0e35-2c62-4be3-898b-144e1ef12409.jpg",
+            "image": "shopify://shop_images/1_5c9a0e35-2c62-4be3-898b-144e1ef12409.jpg",
             "caption": ""
           }
         },
         "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/88e0c33fe0838ce1e4961a785b563039.png",
-            "caption": ""
-          }
-        },
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_72baca39-62c6-471b-a636-d4b49de3bbd1.png",
+            "image": "shopify://shop_images/88e0c33fe0838ce1e4961a785b563039.png",
             "caption": ""
           }
         }
       },
       "block_order": [
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2",
         "image_R4dKDV",
         "image_6xEA8B",
         "image_Eq9GCD",
         "e52c2970-678b-476e-a8df-d0174161542d",
         "6d403621-999a-46e5-abd0-bf76d068a2b3",
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1",
-        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2"
+        "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-1"
       ],
       "settings": {
         "subheading": "",
@@ -276,7 +276,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=8NWcdE-tcC8&t=3s",
+        "video_url": "https://www.youtube.com/watch?v=8NWcdE-tcC8&t=3s",
         "background_type": "boxed",
         "video_size": "medium",
         "autoplay": true,
@@ -291,25 +291,25 @@
         "item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8241.jpg",
+            "image": "shopify://shop_images/IMG_8241.jpg",
             "tab_label": "植纖餐盒",
             "subheading": "環保又時髦",
             "title": "植纖餐盒",
-            "content": "<p>可在4個月間在自然環境中完全降解<\/p><p>對環境無負擔，一起守護大自然<\/p>",
+            "content": "<p>可在4個月間在自然環境中完全降解</p><p>對環境無負擔，一起守護大自然</p>",
             "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/植纖餐盒-1"
+            "button_link": "shopify://collections/植纖餐盒-1"
           }
         },
         "item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8303.jpg",
+            "image": "shopify://shop_images/IMG_8303.jpg",
             "tab_label": "八角輕食盒OLLC",
             "subheading": "時尚新造型",
             "title": "八角輕食盒OLLC",
-            "content": "<p>實用、時尚<\/p><p>層層堆疊真方便<\/p>",
+            "content": "<p>實用、時尚</p><p>層層堆疊真方便</p>",
             "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/products\/八角輕食盒"
+            "button_link": "shopify://products/八角輕食盒"
           }
         }
       },
@@ -336,25 +336,25 @@
         "template--18250312614196__564db415-b60b-49fa-b955-d7888f42f912-168672738065e1082b-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_ead005d6-d887-4c9f-b3fb-baa909c55fbd.png",
+            "image": "shopify://shop_images/1_ead005d6-d887-4c9f-b3fb-baa909c55fbd.png",
             "tab_label": "38口徑吸管蓋",
             "subheading": "看得到!吸得到!",
             "title": "38口徑吸管蓋",
-            "content": "<p>紙杯看不到內容物、瓶子吸不到珍珠<\/p><p>兩個願望一次滿足<\/p><p>快來試試吸管蓋!<\/p>",
+            "content": "<p>紙杯看不到內容物、瓶子吸不到珍珠</p><p>兩個願望一次滿足</p><p>快來試試吸管蓋!</p>",
             "button_text": "點我看更多",
-            "button_link": "shopify:\/\/products\/38口徑瓶子吸管蓋"
+            "button_link": "shopify://products/38口徑瓶子吸管蓋"
           }
         },
         "596e98d2-b662-401b-8071-dc20e2918484": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/40dcb1b2156f6281edbd3e65d0a048c2.png",
+            "image": "shopify://shop_images/40dcb1b2156f6281edbd3e65d0a048c2.png",
             "tab_label": "各式紙杯",
             "subheading": "完美替換塑膠杯",
             "title": "各式紙杯",
-            "content": "<p>面對禁塑，找不到合適的替代紙杯嗎?<\/p><p>我們有各種紙杯讓您選擇!<\/p>",
+            "content": "<p>面對禁塑，找不到合適的替代紙杯嗎?</p><p>我們有各種紙杯讓您選擇!</p>",
             "button_text": "點擊看更多",
-            "button_link": "shopify:\/\/collections\/紙杯"
+            "button_link": "shopify://collections/紙杯"
           }
         }
       },
@@ -399,7 +399,7 @@
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "高性價",
-            "content": "<p>我們提供多種免洗餐具，包括塑膠餐具和紙質餐具，讓您可以以更實惠的價格享受到方便快捷的餐飲體驗。我們的免洗餐具不僅方便使用，還經過嚴格的品質檢測，確保安全衛生。<\/p>",
+            "content": "<p>我們提供多種免洗餐具，包括塑膠餐具和紙質餐具，讓您可以以更實惠的價格享受到方便快捷的餐飲體驗。我們的免洗餐具不僅方便使用，還經過嚴格的品質檢測，確保安全衛生。</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -413,7 +413,7 @@
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "專業服務",
-            "content": "<p>我們擁有專業的團隊，為您提供全方位的產品和服務支持。我們可以根據您的需求定制各種規格和款式的免洗餐具，並提供印刷等增值服務，助力您的業務發展。<\/p>",
+            "content": "<p>我們擁有專業的團隊，為您提供全方位的產品和服務支持。我們可以根據您的需求定制各種規格和款式的免洗餐具，並提供印刷等增值服務，助力您的業務發展。</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -427,7 +427,7 @@
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "南部滿額免費配送",
-            "content": "<p>為了讓南部地區的客戶享受更優質的購物體驗，我們提供南部滿額免費配送的優惠政策。只要您的訂單滿足指定金額，就可以享受免費送貨的服務，讓您更輕鬆地獲取所需產品。<\/p>",
+            "content": "<p>為了讓南部地區的客戶享受更優質的購物體驗，我們提供南部滿額免費配送的優惠政策。只要您的訂單滿足指定金額，就可以享受免費送貨的服務，讓您更輕鬆地獲取所需產品。</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
