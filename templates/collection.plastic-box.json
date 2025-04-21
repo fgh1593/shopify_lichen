@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -42,11 +51,25 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_pTqPCW": {
+          "type": "collection",
+          "settings": {
+            "collection": "日本彩盒",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "template--19440291643700__b2081a25-4341-42cc-821d-015ecbf88ae4-1686296591142b5d45-5",
-        "f99a4a01-986a-41a0-a082-8833ffb4263f"
+        "f99a4a01-986a-41a0-a082-8833ffb4263f",
+        "collection_pTqPCW"
       ],
       "settings": {
         "reveal_on_scroll": false,
