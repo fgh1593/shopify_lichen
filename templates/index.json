@@ -223,6 +223,13 @@
     "281a825c-9d69-4e9e-be0e-d1220a2e81f1": {
       "type": "gallery",
       "blocks": {
+        "image_xr3ff6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/01.jpg",
+            "caption": ""
+          }
+        },
         "image_cfffJj": {
           "type": "image",
           "settings": {
@@ -288,6 +295,7 @@
         }
       },
       "block_order": [
+        "image_xr3ff6",
         "image_cfffJj",
         "image_YhrbcD",
         "template--19763983548724__281a825c-9d69-4e9e-be0e-d1220a2e81f1-image-2",
