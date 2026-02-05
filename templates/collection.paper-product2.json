@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -89,7 +98,7 @@
         "e30a2e17-e6c9-4ede-81b8-5a077dc6c3f2": {
           "type": "collection",
           "settings": {
-            "collection": "外帶紙盒",
+            "collection": "輕食盒",
             "subheading": "",
             "title": "",
             "link_text": "",
